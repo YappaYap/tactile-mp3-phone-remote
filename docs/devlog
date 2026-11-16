@@ -1,1 +1,13 @@
+16/11/2026:
+-after centuries of merely thinking about this project i have decided to begin making moves.
+plans for today:
+busy day lecture wise so id like to:
+1. set up an arduino IDE
+2. take a look around the IDE
+3. set up the ESP32 board and ensure it can connect to arduino// download its support.
+4. create a short blink sketch getting an LED to blink to check the board works.
+
+tasks for next session:
+1. get familiar with the arduino syntax
+2. create a general plan and then decompose it into smaller segments
 
