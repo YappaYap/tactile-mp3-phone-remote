@@ -15,5 +15,4 @@ hardware [for the initial iteration]:
 - ESP32-S3 dev board
 - 2 tactile buttons
 - breadboard
-- usb-c cable
 - (these are sourced from an electronics kit with many bits).
